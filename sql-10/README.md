@@ -1,8 +1,7 @@
 <!DOCTYPE html  PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'  'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<title>SQL-10</title>
-</head><body>Sql-10 10 ---<br/>
+</head><body>Sql-10<br/>
 https://sql-mayham.openctf.com/ziopxuoiwquyerhnszpasdyvzlkxcjlwerqwer/sql-10/ <br/>
 <br/>
 I will save you a bunch of time. This one does not require you to &quot;escape&quot; the query to inject. This code puts the user supplied input directly into the query.<br/>
